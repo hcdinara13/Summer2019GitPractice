@@ -6,3 +6,5 @@ purple
 organge
 navy blue
 pink
+brown
+neon
