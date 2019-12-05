@@ -3,5 +3,6 @@ green
 yellow
 white
 purple
-orange
-black
+organge
+navy blue
+pink
