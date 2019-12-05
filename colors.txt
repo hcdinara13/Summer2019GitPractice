@@ -11,3 +11,4 @@ neon
 silver
 sand
 gold
+azure
