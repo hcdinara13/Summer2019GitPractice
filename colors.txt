@@ -1,2 +1,6 @@
 blue
+<<<<<<< HEAD
 green
+=======
+yellow
+>>>>>>> 9fde1c4bd326d5974ee80db75dae1f456eb9a8d5
