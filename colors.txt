@@ -11,8 +11,5 @@ neon
 silver
 sand
 gold
-<<<<<<< HEAD
 azure
-=======
 burgundy
->>>>>>> 13651cddee88940a3af215dd0b414a65e552bc1d
