@@ -3,8 +3,10 @@ green
 yellow
 white
 purple
-organge
+orange
 navy blue
 pink
 brown
 neon
+sand
+gold
