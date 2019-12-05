@@ -3,4 +3,5 @@ green
 yellow
 white
 purple
-organge
+orange
+black
