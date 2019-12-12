@@ -1,0 +1,7 @@
+cat
+tiger
+dog
+lion
+parrot
+rabbit
+penguin
