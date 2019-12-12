@@ -14,5 +14,3 @@ gold
 azure
 burgundy
 french rose
-
-
